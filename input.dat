@@ -1,0 +1,8 @@
+TIMESTEP    0.01
+NPERIODS    1
+ALPHA      0.01
+PHI      1.0
+X0          0.0
+Z0      0.0
+
+ENDINPUT
